@@ -6,11 +6,8 @@ This project is a simple and responsive HTML-based webpage that showcases offens
 ## 🏗 Folder Structure
 
 ```
-sports-analysis-project/
 ├── assets/         # All media files (MP4 videos, images, etc.)
-├── css/            # Stylesheets
-│   └── style.css   # Core styling
-├── index.html      # Main HTML file
+├── index.html      # Main HTML file + styling + java script
 └── README.md       # Project documentation
 ```
 
